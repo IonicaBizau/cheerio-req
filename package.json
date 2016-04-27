@@ -1,0 +1,31 @@
+{
+  "name": "cheerio-req",
+  "description": "An http request module sending back a Cheerio object.",
+  "keywords": [
+    "cheerio",
+    "req",
+    "an",
+    "http",
+    "request",
+    "module",
+    "sending",
+    "back",
+    "a",
+    "object"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/cheerio-req.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/cheerio-req/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/cheerio-req#readme"
+}
