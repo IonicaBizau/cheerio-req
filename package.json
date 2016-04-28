@@ -27,5 +27,9 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/cheerio-req/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/cheerio-req#readme"
+  "homepage": "https://github.com/IonicaBizau/cheerio-req#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "tinyreq": "^3.0.1"
+  }
 }
