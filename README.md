@@ -1,5 +1,7 @@
 
-# cheerio-req [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/cheerio-req.svg)](https://www.npmjs.com/package/cheerio-req) [![Downloads](https://img.shields.io/npm/dt/cheerio-req.svg)](https://www.npmjs.com/package/cheerio-req) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# cheerio-req
+
+ [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/cheerio-req.svg)](https://www.npmjs.com/package/cheerio-req) [![Downloads](https://img.shields.io/npm/dt/cheerio-req.svg)](https://www.npmjs.com/package/cheerio-req) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > An http request module sending back a Cheerio object.
 
@@ -31,6 +33,7 @@ cheerioReq("http://ionicabizau.net", (err, $) => {
 
 ## :memo: Documentation
 
+
 ### `cheerioReq(opts, cb)`
 An http request module sending back a Cheerio object.
 
@@ -46,6 +49,11 @@ An http request module sending back a Cheerio object.
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+## :dizzy: Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
+
+
+ - [`scrape-it`](https://github.com/IonicaBizau/scrape-it#readme)—A Node.js scraper for humans.
 
 ## :scroll: License
 
