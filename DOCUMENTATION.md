@@ -8,6 +8,7 @@ An http request module sending back a Cheerio object.
 You can change the `request` function by overriding the `request` field.
 
 #### Params
+
 - **Object|String** `opts`: The request url or an object passed to [`tinyrequest`](https://github.com/IonicaBizau/tinyreq).
 - **Function** `cb`: The callback function.
 
