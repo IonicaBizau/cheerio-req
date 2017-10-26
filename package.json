@@ -30,7 +30,7 @@
   "homepage": "https://github.com/IonicaBizau/cheerio-req#readme",
   "dependencies": {
     "cheerio": "^0.20.0",
-    "tinyreq": "^3.0.1"
+    "tinyreq": "^3.3.0"
   },
   "files": [
     "bin/",
