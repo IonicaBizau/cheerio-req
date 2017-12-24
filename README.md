@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save cheerio-req
+# Using npm
+npm install --save cheerio-req
+
+# Using yarn
+yarn add cheerio-req
 ```
 
 
