@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/cheerio-req#readme",
   "dependencies": {
-    "cheerio": "^0.20.0",
+    "cheerio": "^1.0.0-rc.10",
     "tinyreq": "^3.3.0"
   },
   "files": [
