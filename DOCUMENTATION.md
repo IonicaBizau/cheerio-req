@@ -9,9 +9,9 @@ You can change the `request` function by overriding the `request` field.
 
 #### Params
 
-- **Object|String** `opts`: The request url or an object passed to [`tinyrequest`](https://github.com/IonicaBizau/tinyreq).
+- **Object|String** `opts`: The request url or an object passed to [`axios`](https://github.com/axios/axios).
 - **Function** `cb`: The callback function.
 
 #### Return
-- **Request** The [`tinyrequest`](https://github.com/IonicaBizau/tinyreq) object.
+- **Promise** The [`axios`](https://github.com/axios/axios) resolving with the data.
 
